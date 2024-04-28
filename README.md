@@ -1,1 +1,3 @@
-# ble-esp-host-client
+# ble-host
+
+Host side BLE implementation trial.
